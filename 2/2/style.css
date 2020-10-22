@@ -1,0 +1,25 @@
+
+
+
+.btn-header:hover{
+	color: green;
+	border-color: green;
+	border-radius: 80px
+}
+.btn-cover:hover{
+	color: pink;
+	border-color: pink;
+	border-radius: 80px
+
+}
+.btn-project_grid:hover{
+	color: blue;
+	border-color: blue;
+	border-radius: 80px
+}
+.btn-footer:hover{
+	color: gold;
+	border-color: gold;
+	border-radius: 80px
+
+}
